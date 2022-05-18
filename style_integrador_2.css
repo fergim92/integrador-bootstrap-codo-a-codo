@@ -1,0 +1,18 @@
+.nav-item nav_footer{
+    color: white!important;
+    cursor: pointer;
+}
+
+#verde{
+    color: #29ad48!important;
+    cursor: pointer;
+}
+
+.card{
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+footer{
+    background-image: linear-gradient(to right,#1c3643,#1d5271);
+}
